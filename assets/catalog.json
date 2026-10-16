@@ -1,0 +1,688 @@
+{
+  "brand": "Betüş Art",
+  "pageCount": 33,
+  "aspectRatio": 0.7109638648676644,
+  "pages": [
+    {
+      "page": 1,
+      "title": "Betüş Art — Katalog Kapağı",
+      "terms": [
+        "Betüş Art",
+        "Betüş Art Ceramic",
+        "el yapımı seramik",
+        "katalog",
+        "betusartceramic"
+      ],
+      "kind": "cover",
+      "printedPage": null,
+      "thumb": "assets/pages/01-thumb.webp",
+      "image": "assets/pages/01-read.webp",
+      "detail": "assets/pages/01-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 2,
+      "title": "Betüş Art — Detaylı Bilgi ve İletişim",
+      "terms": [
+        "detaylı bilgi",
+        "iletişim",
+        "Instagram",
+        "betusartceramic",
+        "Shopier",
+        "BetusArt",
+        "Etsy"
+      ],
+      "kind": "contact",
+      "printedPage": null,
+      "thumb": "assets/pages/02-thumb.webp",
+      "image": "assets/pages/02-read.webp",
+      "detail": "assets/pages/02-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 3,
+      "title": "Merhaba — Betüş Art Ceramic Atölyesi",
+      "terms": [
+        "Merhaba",
+        "Betüş Art Ceramic Atölyesi",
+        "el yapımı",
+        "seramik",
+        "çamur",
+        "torna",
+        "sırlama",
+        "fırın",
+        "atölye",
+        "Sevgilerimle"
+      ],
+      "kind": "story",
+      "printedPage": null,
+      "thumb": "assets/pages/03-thumb.webp",
+      "image": "assets/pages/03-read.webp",
+      "detail": "assets/pages/03-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 4,
+      "title": "Bahçe Rüyası · Nazar Boncuğu Işıltısı",
+      "terms": [
+        "Bahçe Rüyası",
+        "sürahi",
+        "çiçek",
+        "yaprak",
+        "Nazar Boncuğu Işıltısı",
+        "seramik takım",
+        "kahve saati",
+        "nazar boncuğu"
+      ],
+      "kind": "collection",
+      "printedPage": 2,
+      "thumb": "assets/pages/04-thumb.webp",
+      "image": "assets/pages/04-read.webp",
+      "detail": "assets/pages/04-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 5,
+      "title": "Kontrast Bahçe · Gece Bahçesi",
+      "terms": [
+        "Kontrast Bahçe",
+        "fincan takımı",
+        "siyah beyaz",
+        "dama",
+        "Gece Bahçesi",
+        "kırmızı çiçek"
+      ],
+      "kind": "collection",
+      "printedPage": 3,
+      "thumb": "assets/pages/05-thumb.webp",
+      "image": "assets/pages/05-read.webp",
+      "detail": "assets/pages/05-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 6,
+      "title": "Arılar ve Kır Çiçekleri",
+      "terms": [
+        "Arılar ve Kır Çiçekleri",
+        "arı",
+        "petek",
+        "kır çiçekleri",
+        "seramik takım",
+        "çay",
+        "kahve"
+      ],
+      "kind": "collection",
+      "printedPage": 4,
+      "thumb": "assets/pages/06-thumb.webp",
+      "image": "assets/pages/06-read.webp",
+      "detail": "assets/pages/06-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 7,
+      "title": "Arılar ve Kır Çiçekleri — Detaylar",
+      "terms": [
+        "Arılar ve Kır Çiçekleri",
+        "arı",
+        "petek",
+        "kır çiçekleri",
+        "seramik takım",
+        "çay",
+        "kahve"
+      ],
+      "kind": "collection",
+      "printedPage": 5,
+      "thumb": "assets/pages/07-thumb.webp",
+      "image": "assets/pages/07-read.webp",
+      "detail": "assets/pages/07-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 8,
+      "title": "Zarif Bahar · Sonbahar Dokunuşu",
+      "terms": [
+        "Zarif Bahar",
+        "Pudra Bahçesi",
+        "kupa",
+        "pembe çiçek",
+        "yeşil yaprak",
+        "Sonbahar Dokunuşu",
+        "benekli kupa",
+        "kırmızı çiçek"
+      ],
+      "kind": "collection",
+      "printedPage": 6,
+      "thumb": "assets/pages/08-thumb.webp",
+      "image": "assets/pages/08-read.webp",
+      "detail": "assets/pages/08-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 9,
+      "title": "Bahar Bahçesi Serisi",
+      "terms": [
+        "Bahar Bahçesi Serisi",
+        "kase",
+        "çiçek kabartmaları",
+        "kelebek",
+        "sunum"
+      ],
+      "kind": "collection",
+      "printedPage": 7,
+      "thumb": "assets/pages/09-thumb.webp",
+      "image": "assets/pages/09-read.webp",
+      "detail": "assets/pages/09-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 10,
+      "title": "Bahar Bahçesi Serisi — Detaylar",
+      "terms": [
+        "Bahar Bahçesi Serisi",
+        "kase",
+        "çiçek kabartmaları",
+        "kelebek",
+        "sunum"
+      ],
+      "kind": "collection",
+      "printedPage": 8,
+      "thumb": "assets/pages/10-thumb.webp",
+      "image": "assets/pages/10-read.webp",
+      "detail": "assets/pages/10-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 11,
+      "title": "Bahar Bahçesi Serisi · Papatya Bahçesi",
+      "terms": [
+        "Bahar Bahçesi Serisi",
+        "kase",
+        "kelebek",
+        "Papatya Bahçesi",
+        "papatya",
+        "sunum"
+      ],
+      "kind": "collection",
+      "printedPage": 9,
+      "thumb": "assets/pages/11-thumb.webp",
+      "image": "assets/pages/11-read.webp",
+      "detail": "assets/pages/11-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 12,
+      "title": "Masal Köyü · Bahar Dokunuşu Küllük Serisi",
+      "terms": [
+        "Masal Köyü",
+        "kase",
+        "minik ev",
+        "ağaç",
+        "plaj",
+        "Bahar Dokunuşu Küllük Serisi",
+        "seramik küllük seti",
+        "çiçek",
+        "yaprak"
+      ],
+      "kind": "collection",
+      "printedPage": 10,
+      "thumb": "assets/pages/12-thumb.webp",
+      "image": "assets/pages/12-read.webp",
+      "detail": "assets/pages/12-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 13,
+      "title": "Baharın Uyanışı",
+      "terms": [
+        "Baharın Uyanışı",
+        "ayaklı kase serisi",
+        "kır çiçekleri",
+        "arı",
+        "kabartma"
+      ],
+      "kind": "collection",
+      "printedPage": 11,
+      "thumb": "assets/pages/13-thumb.webp",
+      "image": "assets/pages/13-read.webp",
+      "detail": "assets/pages/13-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 14,
+      "title": "Baharın Uyanışı · Yakut Dokusu",
+      "terms": [
+        "Baharın Uyanışı",
+        "ayaklı kase serisi",
+        "arı",
+        "Yakut Dokusu",
+        "kase",
+        "kırmızı",
+        "pembe",
+        "dalgalı kenar"
+      ],
+      "kind": "collection",
+      "printedPage": 12,
+      "thumb": "assets/pages/14-thumb.webp",
+      "image": "assets/pages/14-read.webp",
+      "detail": "assets/pages/14-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 15,
+      "title": "Akdeniz Esintisi · Lumina Petal",
+      "terms": [
+        "Akdeniz Esintisi",
+        "seramik tabak seti",
+        "limon",
+        "yeşil yaprak",
+        "Lumina Petal",
+        "seramik lamba",
+        "turkuaz çiçek"
+      ],
+      "kind": "collection",
+      "printedPage": 13,
+      "thumb": "assets/pages/15-thumb.webp",
+      "image": "assets/pages/15-read.webp",
+      "detail": "assets/pages/15-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 16,
+      "title": "Çiçek Bahçesi · Masal Evi",
+      "terms": [
+        "Çiçek Bahçesi",
+        "kulplu tepsi",
+        "sarmaşık",
+        "çiçek kabartma",
+        "Masal Evi",
+        "mumluk",
+        "buhurdalık",
+        "kalp pencere"
+      ],
+      "kind": "collection",
+      "printedPage": 14,
+      "thumb": "assets/pages/16-thumb.webp",
+      "image": "assets/pages/16-read.webp",
+      "detail": "assets/pages/16-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 17,
+      "title": "Terra Flora · Sonbahar Bahçesi",
+      "terms": [
+        "Terra Flora",
+        "gelincik",
+        "seramik",
+        "kordon",
+        "Sonbahar Bahçesi",
+        "küre mumluk",
+        "çiçek"
+      ],
+      "kind": "collection",
+      "printedPage": 15,
+      "thumb": "assets/pages/17-thumb.webp",
+      "image": "assets/pages/17-read.webp",
+      "detail": "assets/pages/17-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 18,
+      "title": "Poppy Hill · Luna Haven",
+      "terms": [
+        "Poppy Hill",
+        "seramik lamba",
+        "gelincik",
+        "kırmızı",
+        "Luna Haven",
+        "seramik lamba",
+        "yıldız",
+        "altın detay"
+      ],
+      "kind": "collection",
+      "printedPage": 16,
+      "thumb": "assets/pages/18-thumb.webp",
+      "image": "assets/pages/18-read.webp",
+      "detail": "assets/pages/18-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 19,
+      "title": "Bella Botanica · Jardin De Nuit",
+      "terms": [
+        "Bella Botanica",
+        "seramik lamba",
+        "çiçek",
+        "Jardin De Nuit",
+        "seramik lamba",
+        "siyah beyaz",
+        "dama",
+        "kelebek"
+      ],
+      "kind": "collection",
+      "printedPage": 17,
+      "thumb": "assets/pages/19-thumb.webp",
+      "image": "assets/pages/19-read.webp",
+      "detail": "assets/pages/19-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 20,
+      "title": "Teddy Bear · Ateş Çiçeği",
+      "terms": [
+        "Teddy Bear",
+        "notluk",
+        "kart tutucu",
+        "nostaljik",
+        "Ateş Çiçeği",
+        "seramik ayna",
+        "kırmızı çiçek",
+        "altın çerçeve"
+      ],
+      "kind": "collection",
+      "printedPage": 18,
+      "thumb": "assets/pages/20-thumb.webp",
+      "image": "assets/pages/20-read.webp",
+      "detail": "assets/pages/20-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 21,
+      "title": "Mozaik Rüya · Toprağın Senfonisi",
+      "terms": [
+        "Mozaik Rüya",
+        "kase",
+        "siyah beyaz",
+        "dama",
+        "Toprağın Senfonisi",
+        "seramik duvar panosu",
+        "toprak tonları",
+        "küresel form",
+        "yaprak"
+      ],
+      "kind": "collection",
+      "printedPage": 19,
+      "thumb": "assets/pages/21-thumb.webp",
+      "image": "assets/pages/21-read.webp",
+      "detail": "assets/pages/21-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 22,
+      "title": "Yeryüzü Damlaları · Kır Çiçeği Rüyası",
+      "terms": [
+        "Yeryüzü Damlaları",
+        "duvar panosu",
+        "geometrik formlar",
+        "Kır Çiçeği Rüyası",
+        "seramik kupa",
+        "sarı turuncu çiçek",
+        "benekli sır"
+      ],
+      "kind": "collection",
+      "printedPage": 20,
+      "thumb": "assets/pages/22-thumb.webp",
+      "image": "assets/pages/22-read.webp",
+      "detail": "assets/pages/22-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 23,
+      "title": "Sapphire Dream · Sonbahar Gizemi",
+      "terms": [
+        "Sapphire Dream",
+        "seramik kupa",
+        "koyu kırmızı çiçek",
+        "mavi benek",
+        "Sonbahar Gizemi",
+        "seramik kupa",
+        "kırmızı çiçek",
+        "yaprak"
+      ],
+      "kind": "collection",
+      "printedPage": 21,
+      "thumb": "assets/pages/23-thumb.webp",
+      "image": "assets/pages/23-read.webp",
+      "detail": "assets/pages/23-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 24,
+      "title": "Yılbaşı Serisi — Premium",
+      "terms": [
+        "Yılbaşı Serisi",
+        "premium",
+        "yılbaşı",
+        "yeni yıl",
+        "kış",
+        "hediye"
+      ],
+      "kind": "section",
+      "printedPage": null,
+      "thumb": "assets/pages/24-thumb.webp",
+      "image": "assets/pages/24-read.webp",
+      "detail": "assets/pages/24-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 25,
+      "title": "Yeni Yıl Masalı · Unicorn",
+      "terms": [
+        "Yeni Yıl Masalı",
+        "fincan takımı",
+        "yılbaşı figürleri",
+        "Unicorn",
+        "seramik kupa",
+        "altın yaldız",
+        "örgü kulp",
+        "çiçek taç"
+      ],
+      "kind": "seasonal",
+      "printedPage": 23,
+      "thumb": "assets/pages/25-thumb.webp",
+      "image": "assets/pages/25-read.webp",
+      "detail": "assets/pages/25-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 26,
+      "title": "Mutlu Yuvalar · Noel Çorabı",
+      "terms": [
+        "Mutlu Yuvalar",
+        "seramik kupa seti",
+        "karlı ev",
+        "çam ağacı",
+        "Noel Çorabı",
+        "seramik kupa",
+        "yılbaşı",
+        "kış"
+      ],
+      "kind": "seasonal",
+      "printedPage": 24,
+      "thumb": "assets/pages/26-thumb.webp",
+      "image": "assets/pages/26-read.webp",
+      "detail": "assets/pages/26-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 27,
+      "title": "Masal Evi · Neşeli Şapka",
+      "terms": [
+        "Masal Evi",
+        "seramik kupa",
+        "karlı çatı",
+        "ev",
+        "çam ağacı",
+        "Neşeli Şapka",
+        "seramik kupa",
+        "Noel Baba",
+        "çiçek"
+      ],
+      "kind": "seasonal",
+      "printedPage": 25,
+      "thumb": "assets/pages/27-thumb.webp",
+      "image": "assets/pages/27-read.webp",
+      "detail": "assets/pages/27-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 28,
+      "title": "Snow Dream · Holiday Gnome",
+      "terms": [
+        "Snow Dream",
+        "seramik kupa",
+        "karlı kırmızı ev",
+        "burma kulp",
+        "Holiday Gnome",
+        "seramik kupa",
+        "yeşil şapka",
+        "yılbaşı cücesi"
+      ],
+      "kind": "seasonal",
+      "printedPage": 26,
+      "thumb": "assets/pages/28-thumb.webp",
+      "image": "assets/pages/28-read.webp",
+      "detail": "assets/pages/28-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 29,
+      "title": "Sevimli Cüce · Yılbaşı Süsleri",
+      "terms": [
+        "Sevimli Cüce",
+        "seramik kupa",
+        "sarı örgü saç",
+        "yeşil şapka",
+        "Yılbaşı Süsleri",
+        "süslemeli ayaklı servis tabağı",
+        "yılbaşı figürleri"
+      ],
+      "kind": "seasonal",
+      "printedPage": 27,
+      "thumb": "assets/pages/29-thumb.webp",
+      "image": "assets/pages/29-read.webp",
+      "detail": "assets/pages/29-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 30,
+      "title": "Noel Dream · Christmas House",
+      "terms": [
+        "Noel Dream",
+        "kupa",
+        "tabak",
+        "kırmızı meyve dalları",
+        "Christmas House",
+        "Yılbaşı Evleri",
+        "kulplu seramik mumluk seti",
+        "karlı çatı"
+      ],
+      "kind": "seasonal",
+      "printedPage": 28,
+      "thumb": "assets/pages/30-thumb.webp",
+      "image": "assets/pages/30-read.webp",
+      "detail": "assets/pages/30-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 31,
+      "title": "Sipariş ve Teslimat Süreci · Fiyat Bilgisi",
+      "terms": [
+        "sipariş",
+        "teslimat",
+        "hazır stok",
+        "özel üretim",
+        "Custom Siparişler",
+        "güvenli paketleme",
+        "fiyat bilgisi",
+        "Instagram",
+        "Shopier",
+        "Etsy",
+        "iletişim"
+      ],
+      "kind": "order",
+      "printedPage": 29,
+      "thumb": "assets/pages/31-thumb.webp",
+      "image": "assets/pages/31-read.webp",
+      "detail": "assets/pages/31-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 32,
+      "title": "Betüş Art — Detaylı Bilgi",
+      "terms": [
+        "Betüş Art",
+        "detaylı bilgi",
+        "iletişim",
+        "Instagram",
+        "betusartceramic",
+        "Shopier",
+        "BetusArt",
+        "Etsy"
+      ],
+      "kind": "contact",
+      "printedPage": null,
+      "thumb": "assets/pages/32-thumb.webp",
+      "image": "assets/pages/32-read.webp",
+      "detail": "assets/pages/32-detail.webp",
+      "width": 1700,
+      "height": 2391
+    },
+    {
+      "page": 33,
+      "title": "Betüş Art — Arka Kapak",
+      "terms": [
+        "Betüş Art",
+        "arka kapak",
+        "detaylı bilgi",
+        "iletişim",
+        "Instagram",
+        "Shopier",
+        "Etsy"
+      ],
+      "kind": "cover",
+      "printedPage": null,
+      "thumb": "assets/pages/33-thumb.webp",
+      "image": "assets/pages/33-read.webp",
+      "detail": "assets/pages/33-detail.webp",
+      "width": 1700,
+      "height": 2391
+    }
+  ],
+  "links": {
+    "instagram": "https://www.instagram.com/betusartceramic/",
+    "shop": "https://www.shopier.com/BetusArt",
+    "etsy": "https://www.betusartceramic.etsy.com"
+  },
+  "canonicalUrl": "https://www.betusartceramic.com/"
+}
